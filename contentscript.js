@@ -1,15 +1,18 @@
 (function() {
 
     var map = {
-        'she': 'xe',
-        'he': 'xe',
-        'her': 'hir',
-        'him': 'hir',
-        'his': 'hes',
-        'hers': 'hes',
-        'his': 'hes',
-        'herself': 'hirself',
-        'himself': 'hirself'
+        'she': 'they',
+        'he': 'they',
+        'her': 'them',
+        'him': 'them',
+        'hers': 'their',
+        'his': 'their',
+        'herself': 'themself',
+        'himself': 'themself',
+        'woman': 'person',
+        'women': 'people',
+        'man': 'person',
+        'men': 'people'
     };
 
     function replace(textNode) {
