@@ -1,6 +1,7 @@
 The Ungender
 ============
 
-ork of the Ungender using they instead of Zie, as well as changing women + men => people / person
+Fork of the Ungender using they instead of Zie, as well as changing women + men => people / person
+Not published the app, so you'll need to clone the repo and then load the unpacked version into chrome.
 
-https://chrome.google.com/webstore/detail/the-ungender/blfboedipjpaphkkdoddffpnfjknfeda
+Settings->extensions->load unpacked
